@@ -33,12 +33,12 @@ With **Streamlit** for the frontend and **Scikit-learn** for the model, **LoanVe
 
 To run the application locally, make sure you have the following Python packages installed:
 
-- Python 3.x
-- Streamlit
-- Pandas
-- Scikit-learn
-- Joblib
-- Numpy
+- Python 3.11.4
+- streamlit==1.44.1
+- joblib==1.4.2
+- pandas==2.2.3
+- numpy==1.26.3
+- scikit-learn==1.6.1
 
 To install the required dependencies, simply run:
 
@@ -153,14 +153,8 @@ The model predicts the likelihood of loan approval or rejection based on these f
 
 We welcome contributions! If you have ideas, bug fixes, or enhancements, feel free to fork the repository and submit pull requests. 
 
-- **Open Issues:** If you encounter any bugs or need new features, feel free to [open an issue](https://github.com/your-username/LoanVerity/issues).
+- **Open Issues:** If you encounter any bugs or need new features, feel free to [open an issue](https://github.com/Bhavesh2618/LoanVerity/issues).
 - **Contribute:** Create a branch, implement your changes, and send us a pull request.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
@@ -183,7 +177,3 @@ Feel free to reach out for any questions or discussions related to the project!
 - **Email:** pidugubhaveshkumar@gmail.com
 
 ---
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Powered%20by-Streamlit-orange" alt="Powered by Streamlit">
-</p>
